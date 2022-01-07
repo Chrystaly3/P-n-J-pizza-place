@@ -1,0 +1,9 @@
+.container{
+	border: 1px solid red;
+  border-radius: 11px;
+	padding: 20px;
+	margin-bottom: 10rem;
+	margin-left: 2rem;
+	position: fixed;
+	
+}
